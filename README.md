@@ -1,1 +1,1 @@
-# lottery
+# Lottery solidity contract
